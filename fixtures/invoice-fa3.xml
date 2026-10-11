@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Faktura xmlns="http://example.com/fa3">
+  <Naglowek>
+    <KodFormularza>FA</KodFormularza>
+  </Naglowek>
+  <Podmiot1>
+    <NIP>1234567890</NIP>
+  </Podmiot1>
+</Faktura>

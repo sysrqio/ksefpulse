@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "invoices": [
+    {
+      "id": "inv-orphan-1",
+      "status": "orphan",
+      "submitted_at": "2026-10-01T09:00:00Z",
+      "ksef_number": null,
+      "upo_ref": null
+    },
+    {
+      "id": "inv-002",
+      "status": "submitted",
+      "submitted_at": "2026-10-02T10:00:00Z",
+      "ksef_number": null,
+      "upo_ref": null
+    }
+  ]
+}
